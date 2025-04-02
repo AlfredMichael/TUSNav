@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TUSNav</string>
+    <string name="google_maps_api_key"><!--Enter you maps api key in here!!--></string>
+</resources>

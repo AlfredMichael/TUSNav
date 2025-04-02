@@ -1,0 +1,219 @@
+{
+  "Contributor": {
+    "2YBRVRmiVsdsDCk3zqywV9ikUxB3": {
+      "contributions": 1,
+      "email": "k00790602@student.tus.ie",
+      "id": "2YBRVRmiVsdsDCk3zqywV9ikUxB3",
+      "password": "03082004",
+      "ratings": 12,
+      "status": "activated",
+      "username": "Freddy"
+    },
+    "BdUGA83ApEeYjQfVxD3Pi6WHU0l2": {
+      "contributions": 2,
+      "email": "ita@student.tus.ie",
+      "id": "BdUGA83ApEeYjQfVxD3Pi6WHU0l2",
+      "password": "qwerty123",
+      "ratings": 9,
+      "status": "activated",
+      "username": "sputnik"
+    },
+    "djbduda8d8dd9ddd": {
+      "email": "success_fred@yahoo.com",
+      "status": "activated",
+      "username": "Unknown"
+    },
+    "oWFdtdCcFeUdSyFVMdAWorWchXL2": {
+      "contributions": 74,
+      "email": "k00290602@student.tus.ie",
+      "id": "oWFdtdCcFeUdSyFVMdAWorWchXL2",
+      "password": "03082004",
+      "ratings": 78,
+      "status": "activated",
+      "username": "Michael"
+    }
+  },
+  "ip": {
+    "192_168_0_157_-ODiBkFVTSbYX60aJl8a": true,
+    "192_168_0_157_-ODiKKAS6mVc-ZQhlzP9": true,
+    "192_168_18_8_-OEEFYyUJrh-FuRWiLsO": true
+  },
+  "routes": {
+    "-ODiBkFVTSbYX60aJl8a": {
+      "creatorId": "2YBRVRmiVsdsDCk3zqywV9ikUxB3",
+      "date": 1733794389006,
+      "from": "Michael's Room",
+      "fromLat": "52.6652763",
+      "fromLong": "-8.6015284",
+      "mainImageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F7bbd2542-b074-49a0-9373-aff7285e3fc4.jpg?alt=media&token=185fe460-caa1-47c7-b01e-d06359e6da3a",
+      "to": "Toiletb"
+    },
+    "-ODiC8IRp2QI2eMQyNv9": {
+      "creatorId": "2YBRVRmiVsdsDCk3zqywV9ikUxB3",
+      "date": 1733794480226,
+      "elements": [
+        {
+          "text": "Turn left",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F1c30e472-6918-402e-9992-9ba08704987e.jpg?alt=media&token=dc7ca89f-62bb-497f-8b53-e5a015fdcc6a",
+          "type": "image"
+        },
+        {
+          "text": "Turn right",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2Ff62c6dcb-00b9-42dd-bb08-56d76c3635e0.jpg?alt=media&token=13eab0b2-ade8-4241-bedc-3d12741cedda",
+          "type": "image"
+        },
+        {
+          "text": "Lie on your bed",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F7d53d21c-4802-4926-bd44-8dde583d871d.jpg?alt=media&token=f56edfba-63ef-4c36-ad88-42c9f70ee8e6",
+          "type": "image"
+        },
+        {
+          "text": "That's it man",
+          "type": "text"
+        }
+      ],
+      "from": "Michael's Room",
+      "fromLat": "52.667696",
+      "fromLong": "-8.690307",
+      "mainImageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2Ff95bcb9d-40bf-4aff-853a-8f205617dbdd.jpg?alt=media&token=a12600b6-80fc-425f-a3e1-45f79856aa25",
+      "to": "Toileta"
+    },
+    "-ODiKKAS6mVc-ZQhlzP9": {
+      "creatorId": "oWFdtdCcFeUdSyFVMdAWorWchXL2",
+      "date": 1733796634088,
+      "elements": [
+        {
+          "text": "Turn right",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F6d8fdba9-8137-448c-97ac-a84a8da8cd31.jpg?alt=media&token=7844c447-d262-4d5f-bee5-03a176888213",
+          "type": "image"
+        },
+        {
+          "text": "Turn left",
+          "type": "text"
+        },
+        {
+          "text": "Jump up",
+          "type": "text"
+        }
+      ],
+      "from": "Michael room",
+      "fromLat": "52.6652804",
+      "fromLong": "-8.6015256",
+      "mainImageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F40f361a4-d33b-43b8-8e2c-f3d2eed2813c.jpg?alt=media&token=5b850639-eedf-446f-9aee-d132cfa50275",
+      "to": "Toilet "
+    },
+    "-ODnFMXpIfdziftFpUT2": {
+      "creatorId": "2YBRVRmiVsdsDCk3zqywV9ikUxB3",
+      "date": 1733879225955,
+      "elements": [
+        {
+          "text": "Not standing up for this shyt",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2Fb3a0fc6d-d813-42d0-af76-b0bfeed2ebe3.jpg?alt=media&token=16b73cc7-9595-4cd5-93e2-91b17e801999",
+          "type": "image"
+        }
+      ],
+      "from": "Michael's room ",
+      "fromLat": "52.6652809",
+      "fromLong": "-8.6015182",
+      "mainImageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2Fa3333442-c9a5-4135-a065-79915f1b48ca.jpg?alt=media&token=ca3749b9-f454-4564-b656-ccb67274e0fe",
+      "to": "Bathroom"
+    },
+    "-ODnmzXIv50vW9EwqYgV": {
+      "creatorId": "oWFdtdCcFeUdSyFVMdAWorWchXL2",
+      "date": 1733888302585,
+      "elements": [
+        {
+          "text": "Mehn",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F7a50b1d1-219e-41fb-ae3e-a594d0868003.jpg?alt=media&token=2900dff0-c62c-4ea7-a966-a7dae2f516aa",
+          "type": "image"
+        },
+        {
+          "text": "Heel",
+          "type": "text"
+        }
+      ],
+      "from": "Bg",
+      "fromLat": "52.6652782",
+      "fromLong": "-8.6015307",
+      "mainImageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2Fa4ee4fc4-3c30-4935-8355-5054b46d36b3.jpg?alt=media&token=26783729-10f8-493a-b1a5-e40ef44d540e",
+      "to": "Te"
+    },
+    "-OEEFYyUJrh-FuRWiLsO": {
+      "creatorId": "BdUGA83ApEeYjQfVxD3Pi6WHU0l2",
+      "date": 1734349032391,
+      "from": "sandbox",
+      "fromLat": "52.6748989",
+      "fromLong": "-8.648052",
+      "mainImageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F17339c71-fd06-4119-9c62-d6cd9296bb4b.jpg?alt=media&token=7024ebc4-52f4-488a-8001-36fe97a8f723",
+      "to": "restaurant"
+    },
+    "-OEEGSCH45iBE_yDQnbm": {
+      "creatorId": "BdUGA83ApEeYjQfVxD3Pi6WHU0l2",
+      "date": 1734349268597,
+      "elements": [
+        {
+          "text": "turn left towards back",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2Ffbe0c498-4fd4-4906-a778-4b6da3df8cb8.jpg?alt=media&token=853c1385-4ade-4be3-963b-911deca86aa1",
+          "type": "image"
+        },
+        {
+          "text": "turn right at end of street",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2Fbdd1a7fb-2bea-465c-8b59-7ad111ea2d52.jpg?alt=media&token=10cf06a8-1cc6-4532-8b52-e191cd2a589b",
+          "type": "image"
+        },
+        {
+          "text": "arrive at restaurant ",
+          "type": "text"
+        }
+      ],
+      "from": "sandbox",
+      "fromLat": "52.6755626",
+      "fromLong": "-8.6476827",
+      "mainImageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2Fb0738982-b737-4bfa-93dc-e52873cf32aa.jpg?alt=media&token=2498d8ff-8345-4cc6-8244-689f5beff7dd",
+      "to": "restaurant"
+    },
+    "-OIQGKF37eTV71Z0OE2q": {
+      "creatorId": "oWFdtdCcFeUdSyFVMdAWorWchXL2",
+      "date": 1738845531808,
+      "elements": [
+        {
+          "text": "Stand up",
+          "type": "text"
+        },
+        {
+          "imageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F382dce0d-55a4-48a5-9949-efef837a44ae.jpg?alt=media&token=113149f8-9e33-40dc-906e-55f45c053f4d",
+          "type": "image"
+        }
+      ],
+      "from": "Sandbox",
+      "fromLat": "52.6748523",
+      "fromLong": "-8.6482377",
+      "mainImageUri": "https://firebasestorage.googleapis.com/v0/b/tusnav-bythedev.firebasestorage.app/o/route_images%2F70fc11dd-8705-4a4e-93ee-d586a8a2e3af.jpg?alt=media&token=04ce7eaf-02ef-4212-aaea-a54599284179",
+      "to": "Toilet"
+    }
+  }
+}
